@@ -1,0 +1,3 @@
+rootProject.name = 'ex3_ss2_micro'
+include 'user-service'
+include 'inventory-service'
